@@ -28,7 +28,8 @@ This project presents an interactive Power BI dashboard for monitoring project p
 Download the Power BI file from this repository and open it using Power BI Desktop to explore the report.
 
 ## Author
-Student project submission
+Mohammed Nadeem N &
+Manikandan M
 
 ## How to Use
 1. Download the `.pbix` file.
